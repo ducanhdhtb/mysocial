@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
     <!-- Required meta tags -->
@@ -14,9 +13,10 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <link rel="stylesheet" href="css/style.css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-    <script src="ajax.js"></script>
-    <script src="1.js"></script>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/homepage.css" type="text/css">
+
+    <script src="ajax.js" type="text/javascript"></script>
 </head>
 <body>

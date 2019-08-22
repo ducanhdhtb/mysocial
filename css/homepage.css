@@ -1,0 +1,10 @@
+h1{
+    color:green;
+}
+.nav, .content{
+    border:1px solid green;
+}
+button.btn.btn-success {
+    float: right;
+    margin-top: 0.5em;
+}

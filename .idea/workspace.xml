@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3c152b-c6cd-4d56-ab36-d36f3d3f2bb2" name="Default Changelist" comment="" />
+    <list default="true" id="ff3c152b-c6cd-4d56-ab36-d36f3d3f2bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process-post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process-login.php" beforeDir="false" afterPath="$PROJECT_DIR$/process-login.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +39,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -59,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1566145990088</updated>
       <workItem from="1566145991292" duration="8415000" />
+      <workItem from="1566234187914" duration="11394000" />
+      <workItem from="1566410636967" duration="4223000" />
     </task>
     <servers />
   </component>
@@ -70,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

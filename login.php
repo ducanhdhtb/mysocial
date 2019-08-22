@@ -1,4 +1,3 @@
-
 <!------ Include the above in your HEAD tag ---------->
 <?php
 require("header.php");
@@ -21,12 +20,12 @@ require("nagivation.php");
                             </div>
 
                             <div class="form-group row">
-                                <label for="email_address" class="col-md-4 col-form-label text-md-right">Password</label>
+                                <label for="email_address"
+                                       class="col-md-4 col-form-label text-md-right">Password</label>
                                 <div class="col-md-6">
                                     <input type="password" id="email_address" class="form-control" name="password">
                                 </div>
                             </div>
-
 
 
                             <div class="col-md-6 offset-md-4">

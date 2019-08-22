@@ -1,7 +1,5 @@
 
 <?php
-
-
 if(isset($_POST["submit"])){
     include("database/database.php");
     $email = $_POST['email'];
@@ -15,20 +13,15 @@ if (mysqli_num_rows($query) > 0){
     $sql_select_id = "Select id from users where email = '$email'";
     $queryId =  mysqli_query($conn, $sql_select_id );
     $row = mysqli_fetch_array($queryId);
-        $_SESSION["userid"] = $row['id'];
-        echo $_SESSION["userid"];
+    $_SESSION["userid"] = $row['id'];
+    header("Location: homepage.php");
 }else{
-        echo "Email or Password not true..";
+        echo "Username or password not true";
 }
-
-
-
-
-
 }else{
     echo "Not Submit";
 }
-
-
-
 ?>
+<?php
+    require_once ("header.php");
+    require_once("nagivation.php");
